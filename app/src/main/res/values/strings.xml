@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyTrainingSession</string>
+    <string name="textTitleTV">Тренировка</string>
+    <string name="textStartButtonBTN">Начало тренировки</string>
+    <string name="textExerciseTV">Упражнение</string>
+    <string name="textTimerTV">Оставшееся время</string>
+    <string name="textCompletedButtonBTN">Продолжить дальше</string>
+    <string name="titleExitItem">Выход</string>
+    <string name="textSloganTV">Достигай большего с каждым шагом!</string>
+    <string name="textMainStartBTN">Сделать первый шаг!</string>
+    <string name="textReturnButtonBTN">Вернуться к выбору упражнения</string>
+</resources>
